@@ -1,1 +1,3 @@
-# 100_days_of_code
+# Python
+- Learning Python
+- 100 days to learn code
